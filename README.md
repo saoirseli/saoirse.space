@@ -1,2 +1,0 @@
-# saoirse.space
-Website code
