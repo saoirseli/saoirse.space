@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://saoirse.space/2022/07/aah-smile-farm-volunteering/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saoirse.space/categories/aah-volunteering/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saoirse.space/categories/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saoirse.space/posts/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://saoirse.space/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://saoirse.space/2022/06/interview/</loc>
     <lastmod>2022-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saoirse.space/posts/</loc>
-    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saoirse.space/</loc>
-    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saoirse.space/categories/</loc>
+    <loc>https://saoirse.space/2022/05/first-aah-visit/</loc>
     <lastmod>2022-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://saoirse.space/2022/05/spring-break-2/</loc>
-    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saoirse.space/categories/vacation/</loc>
-    <lastmod>2022-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://saoirse.space/2022/02/vacation-accounts-1/</loc>
+    <loc>https://saoirse.space/2022/02/vacation-accounts/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://saoirse.space/2022/01/inspirational-quotes/</loc>
@@ -42,7 +45,5 @@
     <priority>0</priority>
   </url><url>
     <loc>https://saoirse.space/archives/</loc>
-  </url><url>
-    <loc>https://saoirse.space/1/01/my-greate-american-visit/</loc>
   </url>
 </urlset>
